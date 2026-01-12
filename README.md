@@ -38,7 +38,7 @@
 Set up the entire environment (Golang, pdtm, and all tools) with one command:
 
 ```bash
-git clone https://github.com/primew0lfsn1p3r/vortexstack.git && cd vortexstack && chmod +x setup.sh vortexstack.sh && ./setup.sh && source ~/.bashrc && ./vortexstack.sh --help
+git clone https://github.com/primew0lfsn1p3r/vortexstack.git && cd vortexstack && chmod +x setup.sh && ./setup.sh && source ~/.bashrc && vortexstack --help
 
 ```
 
