@@ -38,7 +38,7 @@
 Set up the entire environment (Golang, pdtm, and all tools) with one command:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/primew0lfsn1p3r/vortexstack/main/setup.sh](https://raw.githubusercontent.com/primew0lfsn1p3r/vortexstack/main/setup.sh) | bash
+curl -sSL "https://raw.githubusercontent.com/primew0lfsn1p3r/vortexstack/main/setup.sh" | bash
 
 ```
 
